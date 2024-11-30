@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Oliver Simiyu
 
 ## 🚀 About Me
-I'm a passionate Full Stack Developer with expertise in building robust web applications. My experience spans:
+I'm a passionate Developer with expertise in building robust web applications. My experience spans:
 
 - 🎨 **Frontend:** Crafting responsive and intuitive user interfaces using React, Vue.js, and modern CSS frameworks
 - 💻 **Backend:** Developing scalable server-side applications with Django, Laravel, and Node.js
