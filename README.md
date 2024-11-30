@@ -9,6 +9,16 @@ Feel free to check out my repositories and connect with me on GitHub. I'm always
 ![Profile Views](https://komarev.com/ghpvc/?username=Simiyuoliver&color=brightgreen&style=flat&label=Profile+Views)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/Simiyuoliver)
 
+## ☕ Support
+
+<a href="https://www.buymeacoffee.com/oliver1350" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+## 📝 Favorite Quote
+
+> *"This is one more piece of advice I have for you: don't get impatient. Even if things are so tangled up you can't do anything, don't get desperate or blow a fuse and start yanking on one particular thread before it's ready to come undone. You have to realize it's going to be a long process and that you'll work on things slowly, one at a time."*
+>
+> — Haruki Murakami, Norwegian Wood
+
 ## 📊 Project Status
 
 | Project | Issues | Open PRs | Closed PRs |
@@ -121,16 +131,6 @@ SQL          ████████████░░░░░░   70%
 - Learning and implementing microservices architecture
 - Contributing to open-source projects
 - Exploring machine learning and AI applications
-
-## ☕ Support
-
-<a href="https://www.buymeacoffee.com/oliver1350" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-## 📝 Favorite Quote
-
-> *"This is one more piece of advice I have for you: don't get impatient. Even if things are so tangled up you can't do anything, don't get desperate or blow a fuse and start yanking on one particular thread before it's ready to come undone. You have to realize it's going to be a long process and that you'll work on things slowly, one at a time."*
->
-> — Haruki Murakami, Norwegian Wood
 
 ---
 ⭐️ From [Simiyuoliver](https://github.com/Simiyuoliver)
