@@ -1,7 +1,15 @@
 # 👋 Hi there, I'm Oliver Simiyu
 
 ## 🚀 About Me
-I'm a passionate Software Developer with expertise in web development and data science. I enjoy building innovative solutions and exploring new technologies. Currently focused on creating impactful web applications and expanding my knowledge in machine learning.
+I'm a passionate Full Stack Developer with expertise in building robust web applications. My experience spans:
+
+🎯 **Frontend**: Crafting responsive and intuitive user interfaces using React, Vue.js, and modern CSS frameworks
+🔧 **Backend**: Developing scalable server-side applications with Django, Laravel, and Node.js
+🔌 **API Development**: Creating and integrating RESTful APIs for seamless data flow
+📊 **Database Management**: Working with both SQL (MySQL, PostgreSQL) and NoSQL (MongoDB) databases
+☁️ **DevOps**: Experienced in AWS cloud services and Docker containerization
+
+Currently focused on creating impactful web applications and expanding my knowledge in machine learning.
 
 ## 🛠️ Skills & Technologies
 
