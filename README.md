@@ -1,5 +1,24 @@
 # 👋 Hi there, I'm Oliver Simiyu
 
+## Hello Fellow < Developers/ >
+
+I'm Oliver, a passionate Full Stack Developer from Kenya. I love the collaborative and open-source nature of the web development community, and I'm excited to share my projects and contributions on GitHub. My goal is to not only continue learning and growing as a developer but also to contribute to and learn from the amazing projects and people in the GitHub community.
+
+Feel free to check out my repositories and connect with me on GitHub. I'm always open to new opportunities and collaborations, so don't hesitate to reach out!
+
+![Profile Views](https://komarev.com/ghpvc/?username=Simiyuoliver&color=brightgreen&style=flat&label=Profile+Views)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/Simiyuoliver)
+
+## 📊 Project Status
+
+| Project | Issues | Open PRs | Closed PRs |
+|---------|--------|-----------|------------|
+| [smart-home-automation](https://github.com/Simiyuoliver/smart-home-automation) | ![Issues](https://img.shields.io/github/issues/Simiyuoliver/smart-home-automation) | ![PRs](https://img.shields.io/github/issues-pr/Simiyuoliver/smart-home-automation) | ![Closed PRs](https://img.shields.io/github/issues-pr-closed/Simiyuoliver/smart-home-automation) |
+| [vue-chat-app](https://github.com/Simiyuoliver/vue-chat-app) | ![Issues](https://img.shields.io/github/issues/Simiyuoliver/vue-chat-app) | ![PRs](https://img.shields.io/github/issues-pr/Simiyuoliver/vue-chat-app) | ![Closed PRs](https://img.shields.io/github/issues-pr-closed/Simiyuoliver/vue-chat-app) |
+| [smart-door-system](https://github.com/Simiyuoliver/smart-door-system) | ![Issues](https://img.shields.io/github/issues/Simiyuoliver/smart-door-system) | ![PRs](https://img.shields.io/github/issues-pr/Simiyuoliver/smart-door-system) | ![Closed PRs](https://img.shields.io/github/issues-pr-closed/Simiyuoliver/smart-door-system) |
+
+[Click here](https://github.com/Simiyuoliver?tab=repositories) to view my other projects.
+
 ## 🚀 About Me
 I'm a passionate Developer with expertise in building robust web applications. My experience spans:
 
