@@ -42,9 +42,12 @@ I'm a passionate Software Developer with expertise in web development and data s
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Simiyuoliver&theme=radical)](https://git.io/streak-stats)
 
 ## 🌟 Featured Projects
-- [Ecommerce-Microservice](https://github.com/Simiyuoliver/Ecommerce-Microservice) - A microservice-based ecommerce platform
-- [Inventory-management-system](https://github.com/Simiyuoliver/Inventory-management-system) - Comprehensive inventory management solution
-- [django-react-todo-app](https://github.com/Simiyuoliver/django-react-todo-app) - Full-stack todo application using Django and React
+- [smart-home-automation](https://github.com/Simiyuoliver/smart-home-automation) - Python-based smart home automation system
+- [vue-chat-app](https://github.com/Simiyuoliver/vue-chat-app) - Real-time chat application built with Vue.js
+- [smart-door-system](https://github.com/Simiyuoliver/smart-door-system) - Python-based smart door access control system
+- [portfolio](https://github.com/Simiyuoliver/portfolio) - Personal portfolio website built with CSS
+- [AmbulanceBookingApp](https://github.com/Simiyuoliver/AmbulanceBookingApp) - An Android application for booking ambulances in case of an emergency
+- [OOP-School-Library-dev](https://github.com/Simiyuoliver/OOP-School-Library-dev) - Object-oriented library management system
 
 ## 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oliver-simiyu-b7b575216/)
