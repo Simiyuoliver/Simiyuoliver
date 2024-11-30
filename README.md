@@ -103,5 +103,15 @@ SQL          ████████████░░░░░░   70%
 - Contributing to open-source projects
 - Exploring machine learning and AI applications
 
+## ☕ Support
+
+<a href="https://www.buymeacoffee.com/simiyuoliver" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+## 📝 Favorite Quote
+
+> *"This is one more piece of advice I have for you: don't get impatient. Even if things are so tangled up you can't do anything, don't get desperate or blow a fuse and start yanking on one particular thread before it's ready to come undone. You have to realize it's going to be a long process and that you'll work on things slowly, one at a time."*
+>
+> — Haruki Murakami, Norwegian Wood
+
 ---
 ⭐️ From [Simiyuoliver](https://github.com/Simiyuoliver)
